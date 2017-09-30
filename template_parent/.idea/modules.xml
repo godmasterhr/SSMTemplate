@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/template_mapper/template_mapper.iml" filepath="$PROJECT_DIR$/template_mapper/template_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template_parent.iml" filepath="$PROJECT_DIR$/template_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template_pojo/template_pojo.iml" filepath="$PROJECT_DIR$/template_pojo/template_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template_service/template_service.iml" filepath="$PROJECT_DIR$/template_service/template_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template_web/template_web.iml" filepath="$PROJECT_DIR$/template_web/template_web.iml" />
+    </modules>
+  </component>
+</project>
